@@ -1,0 +1,35 @@
+.botao {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color:#FCFCFC;
+    color: #000;
+    font-weight: bold;
+    font-size: 12px;
+    
+}
+.botao1 {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: #1919DD;
+    color: #000;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#visor {
+    height: 30px;
+    width: 200px;
+    padding: 4px;
+    text-align: right;
+    background-color:#F5FF50;
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+    
+}
+
+.h1 {
+    margin-left: 5px;
+}
